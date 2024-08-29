@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112476798797",
+    "project_id": "korewireless-2943e",
+    "storage_bucket": "korewireless-2943e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112476798797:android:17239c0d13b2616fdfc104",
+        "android_client_info": {
+          "package_name": "com.covalense.korewireless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112476798797-jpqt52lcus6i75203djcj17h18871tu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaKKYiPAZzW6O7EwpsazEeUKYqkfLivA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112476798797-jpqt52lcus6i75203djcj17h18871tu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
